@@ -6,23 +6,24 @@ Sebenarnya saya sudah men-deploy hasil latihan RESTful API ini dan dapat diakses
 
 Saya menyarankan untuk selalu menggunakan headers berikut untuk setiap kali mengakses *url endpoint*:
 <br>
-`headers: {
+```
+headers: {
   "Authorization": "Bearer PersonalBookshelf03112022",
   "Content-Type": "application/json",
-}`
-<br><br>
+}
+```
 Jika ingin menjalankan proyek ini pada localhost secara penuh, saya menyarankan untuk memasang MongoDB Community Server beserta MongoDB Compass-nya.
 Jangan lupa untuk melakukan ***npm install*** untuk memasang setiap package yang diperlukan.
 <br><br>
 ### SIAPKAN FILE .ENV
 Buatlah file **.env** pada root folder atau berada pada level yang sama dengan **package.json**, sesuaikan dan isi file **.env** tersebut seperti yang tertera pada **.env.example**.
 <br>Contohnya seperti berikut:
-
-> **MONGODB_URL**="*mongodb+srv://{username}:{password}@latihan.kujiwhp.mongodb.net/{nama_database}?retryWrites=true&w=majority*"<br>
-> **COOKIE_NAME**="*bookshelf-cookie*"<br>
-> **COOKIE_PASSWORD**="*COOKIE_PASSWORD_MINIMAL_32_CHARACTERS*"<br>
-> **HOST**="*localhost*"
-
+```
+MONGODB_URL="mongodb+srv://<username>:<password>@latihan.kujiwhp.mongodb.net/<nama_database>?retryWrites=true&w=majority"
+COOKIE_NAME="bookshelf-cookie*"
+COOKIE_PASSWORD="COOKIE_PASSWORD_MINIMAL_32_CHARACTERS"
+HOST="localhost"
+```
 Jika databasenya dijalankan di localhost, isi **MONGODB_URL** dengan ***mongodb://localhost:{port}/{nama_database}***.
 <br><br>
 ### BUAT DATABASE MONGODB
@@ -54,21 +55,21 @@ Setiap level memiliki kemampuan untuk *read* pada koleksi ***books***, baik *rea
 ### URL ENDPOINT
 *Url endpoint* berikut tidak memerlukan autentikasi:
 
-+ > **/login**
++ **/login**
 method: 'GET', menampilkan message: 'Silahkan login dengan username dan password yang sudah terdaftar'.
-
-+ > **/login**
++ **/login**
 method: 'POST', digunakan untuk mengirim data body yang menerima dua nilai property *username* dan *password*. Jika kedua nilai properti tersebut valid atau sesuai dengan data pada koleksi users maka akan diredirect ke *url* **/welcome**.
 
 <br>Beberapa *url endpoint* berikut memerlukan autentikasi bearer token yang disimpan pada bagian *headers* saat akan melakukan *request*-nya.
-`headers: {
+```
+headers: {
   "Authorization": "Bearer PersonalBookshelf03112022",
   "Content-Type": "application/json",
-}`
-+ > **/books**
+}
+```
++ **/books**
 method: 'GET', digunakan untuk mendapatkan semua buku dari koleksi ***books***.
-
-+ > **/books/category/{categoryName}**
++ **/books/category/{categoryName}**
 method: 'GET', digunakan untuk mendapatkan semua buku berdasarkan bada nama kategori yang simpan pada *{categoryName}*.
 
 <br><br>
