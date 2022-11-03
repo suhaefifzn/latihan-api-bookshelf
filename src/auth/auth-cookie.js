@@ -10,7 +10,7 @@ const cookieAuthOptions = {
   cookie: {
     name: COOKIE_NAME,
     password: COOKIE_PASSWORD,
-    isSecure: true,
+    isSecure: false,
   },
   redirectTo: '/login',
   validate: async (request, session) => {

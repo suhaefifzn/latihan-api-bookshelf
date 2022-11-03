@@ -16,7 +16,7 @@ const {
   cookieAuthOptions,
 } = require('./auth/auth-cookie');
 
-const HOST = process.env.HOST || 'localhost';
+const HOST = 'localhost';
 const PORT = process.env.PORT || 5000;
 
 const plugins = [AuthBearer, ConnectionDB, HapiCookie];
