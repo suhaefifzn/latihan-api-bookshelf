@@ -32,7 +32,7 @@ const routes = [
         return h.redirect('/home');
       }
 
-      return h.redirect('/home');
+      return h.redirect('/login');
     },
     options: {
       auth: {
