@@ -9,7 +9,7 @@ const getLoginHandler = async (request, h) => {
 
   const response = h.response({
     status: 'success',
-    message: 'Login dengan username dan password yang sudah terdaftar',
+    message: 'Silahkan login dengan username dan password yang sudah terdaftar',
   });
 
   response.code(200);
