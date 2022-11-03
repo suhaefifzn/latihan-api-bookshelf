@@ -22,5 +22,8 @@
     "hapi-auth-bearer-token": "^8.0.0",
     "hapi-mongodb": "^10.0.3",
     "joi": "^17.6.3"
+  },
+  "engines": {
+    "node": "14.7.0"
   }
 }
