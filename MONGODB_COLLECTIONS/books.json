@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "63628acf93546020c470592e"
+  },
+  "title": "Gagal Menjadi Manusia",
+  "year": 2022,
+  "author": "Dazai Osamu",
+  "publisher": "Penerbit Mai",
+  "category": {
+    "id": "6361ff4c17ad760bc00d50ba",
+    "name": "Psikologi"
+  },
+  "addedBy": "Super Admin",
+  "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id tortor in nisi commodo faucibus. Quisque porttitor lobortis risus sed vulputat...",
+  "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id tortor in nisi commodo faucibus. Quisque porttitor lobortis risus sed vulputate. Praesent porttitor felis in ligula fermentum, nec semper leo dignissim. Sed cursus nulla at porttitor mattis. Sed id pellentesque turpis. Nulla odio libero, porta a libero et, malesuada molestie lorem. Mauris tempus, turpis at congue feugiat, ex nibh ultrices odio, in consequat elit ante eu nulla. Nunc interdum bibendum gravida. Mauris ullamcorper ligula a nisi dignissim sagittis. Sed gravida urna enim, quis elementum ligula accumsan eu. In a dignissim quam. Fusce feugiat ex risus, vitae faucibus nisi condimentum a. Mauris ullamcorper, lectus eu luctus porttitor, neque neque placerat odio, eget volutpat mauris erat in ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p><p>Sed scelerisque molestie tristique. Aenean vitae urna nec augue faucibus ullamcorper. Vivamus condimentum nunc ac convallis porta. Donec vestibulum dignissim dui sed dapibus. Nulla facilisi. Mauris ornare, urna quis placerat viverra, purus justo ornare erat, at congue mauris augue a elit. Duis id magna semper, tempor lectus vitae, posuere diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas ultrices quis sapien quis ultrices. Cras mollis nunc augue, non porttitor metus finibus et. Etiam commodo enim sodales ex efficitur interdum. Curabitur sit amet urna cursus, ullamcorper neque sit amet, imperdiet turpis.</p><p>Mauris gravida, turpis quis viverra auctor, lorem tellus tempus urna, at vulputate nisi risus ac lorem. Proin gravida eleifend congue. Duis et mollis nunc. Suspendisse vehicula maximus nulla et porttitor. Phasellus id egestas elit, sed fermentum nisi. Donec lacinia eleifend sapien at tempus. Sed sollicitudin faucibus nibh in fermentum. Donec non magna risus. Suspendisse potenti. Nulla facilisi. Integer lobortis pretium ipsum eget consectetur. Curabitur sed sagittis nulla. Aliquam eu lorem quis enim feugiat vulputate vel id nulla.</p>",
+  "insertedAt": "2022-11-02T15:20:47.717Z",
+  "updatedAt": "2022-11-02T15:56:54.381Z"
+},{
+  "_id": {
+    "$oid": "636338bfb95445e0585438e6"
+  },
+  "title": "Real Face",
+  "year": 2022,
+  "author": "Chinen Mikito",
+  "publisher": "Penerbit Haru",
+  "category": {
+    "id": "6361f8851a97f2e7985b72bf",
+    "name": "Misteri"
+  },
+  "addedBy": "Super Admin",
+  "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id tortor in nisi commodo faucibus. Quisque porttitor lobortis risus sed vulputat...",
+  "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id tortor in nisi commodo faucibus. Quisque porttitor lobortis risus sed vulputate. Praesent porttitor felis in ligula fermentum, nec semper leo dignissim. Sed cursus nulla at porttitor mattis. Sed id pellentesque turpis. Nulla odio libero, porta a libero et, malesuada molestie lorem. Mauris tempus, turpis at congue feugiat, ex nibh ultrices odio, in consequat elit ante eu nulla. Nunc interdum bibendum gravida. Mauris ullamcorper ligula a nisi dignissim sagittis. Sed gravida urna enim, quis elementum ligula accumsan eu. In a dignissim quam. Fusce feugiat ex risus, vitae faucibus nisi condimentum a. Mauris ullamcorper, lectus eu luctus porttitor, neque neque placerat odio, eget volutpat mauris erat in ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p><p>Sed scelerisque molestie tristique. Aenean vitae urna nec augue faucibus ullamcorper. Vivamus condimentum nunc ac convallis porta. Donec vestibulum dignissim dui sed dapibus. Nulla facilisi. Mauris ornare, urna quis placerat viverra, purus justo ornare erat, at congue mauris augue a elit. Duis id magna semper, tempor lectus vitae, posuere diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas ultrices quis sapien quis ultrices. Cras mollis nunc augue, non porttitor metus finibus et. Etiam commodo enim sodales ex efficitur interdum. Curabitur sit amet urna cursus, ullamcorper neque sit amet, imperdiet turpis.</p><p>Mauris gravida, turpis quis viverra auctor, lorem tellus tempus urna, at vulputate nisi risus ac lorem. Proin gravida eleifend congue. Duis et mollis nunc. Suspendisse vehicula maximus nulla et porttitor. Phasellus id egestas elit, sed fermentum nisi. Donec lacinia eleifend sapien at tempus. Sed sollicitudin faucibus nibh in fermentum. Donec non magna risus. Suspendisse potenti. Nulla facilisi. Integer lobortis pretium ipsum eget consectetur. Curabitur sed sagittis nulla. Aliquam eu lorem quis enim feugiat vulputate vel id nulla.</p>",
+  "insertedAt": "2022-11-03T03:42:55.953Z",
+  "updatedAt": "2022-11-03T03:42:55.953Z"
+},{
+  "_id": {
+    "$oid": "636365d936a57b36906074a0"
+  },
+  "title": "Mad House",
+  "year": 2007,
+  "author": "Patrick McGrath",
+  "publisher": "Dasnan Books",
+  "category": {
+    "id": "63620258e2d5b21f11591bf3",
+    "name": "Thriller"
+  },
+  "addedBy": "Admin Biasa",
+  "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id tortor in nisi commodo faucibus. Quisque porttitor lobortis risus sed vulputat...",
+  "body": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id tortor in nisi commodo faucibus. Quisque porttitor lobortis risus sed vulputate. Praesent porttitor felis in ligula fermentum, nec semper leo dignissim. Sed cursus nulla at porttitor mattis. Sed id pellentesque turpis. Nulla odio libero, porta a libero et, malesuada molestie lorem. Mauris tempus, turpis at congue feugiat, ex nibh ultrices odio, in consequat elit ante eu nulla. Nunc interdum bibendum gravida. Mauris ullamcorper ligula a nisi dignissim sagittis. Sed gravida urna enim, quis elementum ligula accumsan eu. In a dignissim quam. Fusce feugiat ex risus, vitae faucibus nisi condimentum a. Mauris ullamcorper, lectus eu luctus porttitor, neque neque placerat odio, eget volutpat mauris erat in ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p><p>Sed scelerisque molestie tristique. Aenean vitae urna nec augue faucibus ullamcorper. Vivamus condimentum nunc ac convallis porta. Donec vestibulum dignissim dui sed dapibus. Nulla facilisi. Mauris ornare, urna quis placerat viverra, purus justo ornare erat, at congue mauris augue a elit. Duis id magna semper, tempor lectus vitae, posuere diam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas ultrices quis sapien quis ultrices. Cras mollis nunc augue, non porttitor metus finibus et. Etiam commodo enim sodales ex efficitur interdum. Curabitur sit amet urna cursus, ullamcorper neque sit amet, imperdiet turpis.</p><p>Mauris gravida, turpis quis viverra auctor, lorem tellus tempus urna, at vulputate nisi risus ac lorem. Proin gravida eleifend congue. Duis et mollis nunc. Suspendisse vehicula maximus nulla et porttitor. Phasellus id egestas elit, sed fermentum nisi. Donec lacinia eleifend sapien at tempus. Sed sollicitudin faucibus nibh in fermentum. Donec non magna risus. Suspendisse potenti. Nulla facilisi. Integer lobortis pretium ipsum eget consectetur. Curabitur sed sagittis nulla. Aliquam eu lorem quis enim feugiat vulputate vel id nulla.</p>",
+  "insertedAt": "2022-11-03T06:55:21.672Z",
+  "updatedAt": "2022-11-03T06:55:21.672Z"
+}]

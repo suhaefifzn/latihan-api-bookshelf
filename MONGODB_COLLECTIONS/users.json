@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "63635e2a9d05222a760a1cce"
+  },
+  "name": "Super Admin",
+  "username": "superadmin",
+  "email": "superadminbookshelf@example.com",
+  "admin": 1,
+  "password": "$2b$10$GwGKMIP10ET.QyVPIXd9kO.OYq4Rb7cFDhn1xQRLifsGx0cyvOG22"
+},{
+  "_id": {
+    "$oid": "63635e649d05222a760a1ccf"
+  },
+  "name": "Admin Biasa",
+  "username": "adminbiasa",
+  "email": "adminbiasa@example.com",
+  "admin": 0,
+  "password": "$2b$10$uAaEQxFUR54Hzin.NYAhAOoQbTIm3bxO1pv6VnolRxOu.LrPMW6ga"
+}]

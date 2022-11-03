@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "6361f8851a97f2e7985b72bf"
+  },
+  "name": "Misteri"
+},{
+  "_id": {
+    "$oid": "6361ff4c17ad760bc00d50ba"
+  },
+  "name": "Psikologi"
+},{
+  "_id": {
+    "$oid": "63620258e2d5b21f11591bf3"
+  },
+  "name": "Thriller"
+}]
