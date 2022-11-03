@@ -28,11 +28,7 @@ const routes = [
     method: 'GET',
     path: '/',
     handler: (request, h) => {
-      if (request.auth.isAuthenticated) {
-        return h.redirect('/home');
-      }
-
-      return h.redirect('/home');
+      return h.redirect('/books');
     },
     options: {
       auth: {
