@@ -4,7 +4,7 @@
   "description": "Latihan multiple authentications dan koneksi database",
   "main": "./src/server.js",
   "scripts": {
-    "start": "nodemon ./src/server.js"
+    "start": "node ./src/server.js"
   },
   "author": "suhaefi",
   "license": "MIT",
